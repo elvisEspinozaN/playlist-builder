@@ -1,6 +1,7 @@
 import React from "react";
 import Tracklist from "../Tracklist/Tracklist";
 
+// display search results
 function SearchResults({ tracks }) {
   return (
     <div>

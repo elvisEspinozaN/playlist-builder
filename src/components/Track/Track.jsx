@@ -1,5 +1,6 @@
 import React from "react";
 
+// individual track
 function Track({ track }) {
   return (
     <div>
